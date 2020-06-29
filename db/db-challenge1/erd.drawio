@@ -1,4 +1,4 @@
-<mxfile host="" modified="2020-06-29T03:28:25.191Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.1 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36" etag="5--NN3ChvjvLPqG5Rqvl" version="13.1.3">
+<mxfile host="" modified="2020-06-29T06:22:16.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.1 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36" etag="mvLf60d4HmEC_J_ggHYU" version="13.1.3">
     <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
         <mxGraphModel dx="612" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
             <root>
@@ -49,7 +49,7 @@
                 <mxCell id="2" value="&amp;nbsp;ユーザーID&lt;br&gt;&lt;br&gt;&amp;nbsp;メールアドレス&lt;br&gt;&amp;nbsp;パスワード&lt;br&gt;&amp;nbsp;表示名&lt;br&gt;&amp;nbsp;自己紹介&lt;br&gt;&amp;nbsp;勤務先電話番号&lt;br&gt;&amp;nbsp;携帯電話番号&lt;br&gt;&amp;nbsp;削除フラグ&lt;br&gt;&amp;nbsp;作成日時&lt;br&gt;&amp;nbsp;更新日時" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
                     <mxGeometry x="60" y="290" width="141" height="168" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="&amp;nbsp;チャットルームID&lt;br&gt;&lt;br&gt;&amp;nbsp;チャットルーム名&lt;br&gt;&amp;nbsp;概要&lt;br&gt;&amp;nbsp;ファイル送信許可フラグ&lt;br&gt;&amp;nbsp;ダイレクトチャットフラグ&lt;br&gt;&amp;nbsp;削除フラグ&lt;br&gt;&amp;nbsp;ユーザーID（FK）&lt;br&gt;&amp;nbsp;更新者ID&lt;br&gt;&amp;nbsp;作成日時&lt;br&gt;&amp;nbsp;更新日時" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                <mxCell id="12" value="&amp;nbsp;チャットルームID&lt;br&gt;&lt;br&gt;&amp;nbsp;チャットルーム名&lt;br&gt;&amp;nbsp;概要&lt;br&gt;&amp;nbsp;ファイル送信許可フラグ&lt;br&gt;&amp;nbsp;ダイレクトチャットフラグ&lt;br&gt;&amp;nbsp;削除フラグ&lt;br&gt;&amp;nbsp;作成者ID（FK）&lt;br&gt;&amp;nbsp;更新者ID&lt;br&gt;&amp;nbsp;作成日時&lt;br&gt;&amp;nbsp;更新日時" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
                     <mxGeometry x="275" y="285.5" width="160" height="178" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="&amp;nbsp;チャットルーム参加ID&lt;br&gt;&lt;br&gt;&amp;nbsp;チャットルームID（FK）&lt;br&gt;&amp;nbsp;参加者ID&lt;br&gt;&amp;nbsp;参加日時" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">

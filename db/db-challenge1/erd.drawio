@@ -1,6 +1,6 @@
-<mxfile host="" modified="2020-06-29T07:34:19.580Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.1 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36" etag="wSYrxIyJO5-6-8xb09Zg" version="13.1.3">
+<mxfile host="" modified="2020-06-29T07:40:56.692Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.1 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36" etag="A-yW_dmuH8fwcZM1jMNy" version="13.1.3">
     <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
-        <mxGraphModel dx="534" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
+        <mxGraphModel dx="532" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -70,7 +70,7 @@
                         <mxPoint x="663" y="102.5" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="30" value="&amp;nbsp;タスクID&lt;br&gt;&lt;br&gt;&amp;nbsp;タスク内容&lt;br&gt;&amp;nbsp;タスク担当者ID&lt;br&gt;&amp;nbsp;チャットルームID（FK）&lt;br&gt;&amp;nbsp;完了期限&lt;br&gt;&amp;nbsp;完了フラグ&lt;br&gt;&amp;nbsp;削除フラグ&lt;br&gt;&amp;nbsp;作成者ID（FK）&lt;br&gt;&amp;nbsp;更新者ID（FK）&lt;br&gt;&amp;nbsp;作成日時&lt;br&gt;&amp;nbsp;更新日時" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                <mxCell id="30" value="&amp;nbsp;タスクID&lt;br&gt;&lt;br&gt;&amp;nbsp;タスク内容&lt;br&gt;&amp;nbsp;タスク担当者ID（FK）&lt;br&gt;&amp;nbsp;チャットルームID（FK）&lt;br&gt;&amp;nbsp;完了期限&lt;br&gt;&amp;nbsp;完了フラグ&lt;br&gt;&amp;nbsp;削除フラグ&lt;br&gt;&amp;nbsp;作成者ID（FK）&lt;br&gt;&amp;nbsp;更新者ID（FK）&lt;br&gt;&amp;nbsp;作成日時&lt;br&gt;&amp;nbsp;更新日時" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
                     <mxGeometry x="503" y="521" width="160" height="187" as="geometry"/>
                 </mxCell>
                 <mxCell id="31" value="" style="endArrow=none;html=1;entryX=0.997;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="30">

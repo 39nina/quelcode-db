@@ -48,8 +48,8 @@ chatroom_id INTEGER NOT NULL REFERENCES chatroom(chatroom_id),
 closed_on DATETIME,
 is_closed TINYINT(1) DEFAULT 0 NOT NULL,
 is_deleted TINYINT(1) DEFAULT 0 NOT NULL,
-creator_id DATETIME NOT NULL REFERENCES user_data(user_id),
-changer_id DATETIME NOT NULL REFERENCES user_data(user_id),
+creator_id INTEGER NOT NULL REFERENCES user_data(user_id),
+changer_id INTEGER NOT NULL REFERENCES user_data(user_id),
 created_at DATETIME NOT NULL,
 updated_at DATETIME NOT NULL
 );

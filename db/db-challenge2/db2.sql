@@ -15,7 +15,7 @@ CREATE TABLE chatrooms_join (
 chatroom_id INTEGER NOT NULL,
 join_user_id INTEGER NOT NULL,
 joined_on DATETIME NOT NULL,
-PRIMARY KEY(chatroom_id, part_id)
+PRIMARY KEY(chatroom_id, join_user_id)
 );
 CREATE TABLE chatrooms (
 chatroom_id INTEGER PRIMARY KEY AUTO_INCREMENT,

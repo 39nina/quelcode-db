@@ -12,8 +12,8 @@ created_at DATETIME NOT NULL,
 updated_at DATETIME NOT NULL
 );
 CREATE TABLE chatrooms_join (
-chatroom_id INTEGER,
-join_user_id INTEGER,
+chatroom_id INTEGER REFERENCES chatrooms(chatroom_id),
+join_user_id INTEGER REFERENCES users_data(user_id),
 joined_on DATETIME NOT NULL,
 PRIMARY KEY(chatroom_id, join_user_id)
 );
